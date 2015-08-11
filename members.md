@@ -272,6 +272,7 @@ Format:
 | Tommy Pedersen | [bodhiBit](https://github.com/bodhiBit) | I have about a lifetime of experience in various programming languages, but none in Git.. |
 | Tomoyuki Katsube | [ka2be](https://github.com/ka2be) |EXPERIENCE:learning Scheme and Python a few years as an amateur.GOALS:enjoy teamwork,write more practical code and readable document(+individually English-Japanese translating).And I like Snufkin.|
 | Trent Robbins | [robbintt](https://github.com/robbintt) ||
+| Tuomas Toivonen | [aurinkopaistaa] https://github.com/aurinkopaistaa | C++, C, C#, Java, Ruby, IA-32. I'm 3rd year software development student. |
 | Tyler Anton | [mtanton](https://github.com/mtanton) | I am a second year CS student with Java experience. I'm looking to further my knowledge for real world use. |
 | Tyler Zika | [tylerzika](https://github.com/tylerzika) ||
 | Vaibhav Jain | [vjain20] (https://github.com/vjain20) | I am a software professional working in Java. I want to contribute to open source. ||
